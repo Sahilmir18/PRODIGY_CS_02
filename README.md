@@ -10,4 +10,10 @@ Allow users to encrypt and decrypt images
 5. Save the file
 
 ## Proof of Work
+### Inserting image
 <img width="1699" height="769" alt="Screenshot 2026-01-06 224605" src="https://github.com/user-attachments/assets/c6d7dad6-5d8b-4e19-8b02-f6cc89d220a9" />
+<img width="1245" height="780" alt="Screenshot 2026-01-06 224915" src="https://github.com/user-attachments/assets/a7de02d4-5bee-45d3-abe5-8ad5cc854d43" />
+### Encrypting Image
+<img width="1241" height="778" alt="Screenshot 2026-01-06 224958" src="https://github.com/user-attachments/assets/db621a37-10c0-4c4e-8efb-295fbf50639b" />
+<img width="1246" height="787" alt="Screenshot 2026-01-06 225256" src="https://github.com/user-attachments/assets/a6f4ad7d-352c-440e-b228-5037c8630287" />
+
