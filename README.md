@@ -19,3 +19,8 @@ Allow users to encrypt and decrypt images
 <img width="1241" height="778" alt="Screenshot 2026-01-06 224958" src="https://github.com/user-attachments/assets/db621a37-10c0-4c4e-8efb-295fbf50639b" />
 <img width="1246" height="787" alt="Screenshot 2026-01-06 225256" src="https://github.com/user-attachments/assets/a6f4ad7d-352c-440e-b228-5037c8630287" />
 
+## Video Proof of Work
+
+https://github.com/user-attachments/assets/eb6508e3-69d3-4e09-a018-7949d4e90d3a
+
+
